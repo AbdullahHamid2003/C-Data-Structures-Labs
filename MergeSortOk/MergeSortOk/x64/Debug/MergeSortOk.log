@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(34,11): error C2131: expression did not evaluate to a constant
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(34,11): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(34,11): message : see usage of 'mid'
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(35,14): error C2131: expression did not evaluate to a constant
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(35,12): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(35,12): message : see usage of 'n'
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(37,11): error C3863: array type 'int [mid]' is not assignable
+C:\Users\Dell\Desktop\DSA Labs\MergeSortOk\MergeSortOk\Source.cpp(40,18): error C3863: array type 'int [n-mid]' is not assignable
